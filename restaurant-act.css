@@ -1,0 +1,19 @@
+header {
+  background-color: #9F837C;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+body {
+  background-color: #FFFBD0;
+  color: #654D45;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+button {
+  padding: 5px 20px;
+  background-color: #FF5A6A;
+  color: #fdffff;
+  border-style: none;
+}
